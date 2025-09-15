@@ -1,1 +1,2 @@
 What is shell navigation?
+Screenshot of terminal will be added here
